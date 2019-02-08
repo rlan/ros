@@ -7,6 +7,11 @@
 ![](https://img.shields.io/docker/pulls/wqael/ros.svg)
 ![](https://img.shields.io/docker/stars/wqael/ros.svg)
 
+To pull,
+
+```sh
+docker pull wqael/ros <tag>
+```
 
 ### ROS Kinetic on Ubuntu 16.04
 
