@@ -10,7 +10,7 @@
 To pull,
 
 ```sh
-docker pull wqael/ros <tag>
+docker pull wqael/ros:<tag>
 ```
 
 ### ROS Kinetic on Ubuntu 16.04
